@@ -71,8 +71,8 @@
 
 ```bash
 ├── README.md                       <- 프로젝트 요약 설명
-├── sns_user_analysis.ipynb         <- 분석 통합 노트북 파일
-
+├── sns_user_analysis.ipynb         <- 분석 통합 pdf 파일
+├── wordcloud_tableau.ipynb         <- 워드 클라우드, 태블로 작업 수행 노트북 파일 
 ```
 
 ---
